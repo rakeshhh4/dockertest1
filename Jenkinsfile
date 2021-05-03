@@ -1,7 +1,7 @@
 pipeline{
     agent any
     environment {
-        VERSION="${V2}"
+        VERSION="${V3}"
     }
   
     stages{
